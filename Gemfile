@@ -5,3 +5,4 @@ gem "activerecord"
 gem "sqlite3"
 gem "rake"
 gem "database_cleaner"
+gem 'sqlite3-ruby', :require => 'sqlite3'
